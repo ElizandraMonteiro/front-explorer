@@ -128,4 +128,4 @@ Se você está tentando acessar o site e o BackEnd não responde, apenas aguarde
 <br>
 Esta etapa poderá demorar até 1 minuto, dependendo da carga nos servidores do Render.
 
-[O resultado FINAL pode ser visto aqui] (https://food-elizandramonteiro.netlify.app/)
+[Confira aqui o meu resultado final](https://food-elizandramonteiro.netlify.app/)
