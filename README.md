@@ -3,13 +3,12 @@
 </p>
 
 <p align="center">
-  <img width="550" height="99" src="https://user-images.githubusercontent.com/106932234/204160165-1936c0db-539f-4a11-bf5e-1f3d3f789896.png">
+  <img alt="Imagem Ilustrativa Light Mode" src="./public/01details.png" width="100%">
 </p>
 
 Este é o resultado do desafio final do Explorer, o Food Explorer.
-<br>
-Nele realizei a criação do FrontEnd e do BackEnd completo da aplicação.
 
+<br>
 ___
 
 ## 💻 Sobre
