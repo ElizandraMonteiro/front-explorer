@@ -80,7 +80,7 @@ ___
 #### 💻 Executando o FrontEnd
 ```bash
 # Navegue até o diretório do FrontEnd
-$ cd food-explorer-frontend
+$ cd front-explorer
 
 # Instale as dependências necessárias
 $ npm install
