@@ -56,7 +56,7 @@ ___
 Clone o projeto para o local desejado em seu computador.
 
 ```bash
-$ git clone git@github.com:elizandramonteiro/Food-Explorer.git
+$ git clone git@github.com:elizandramonteiro/food-explorer.git
 ```
 ___
 
@@ -81,22 +81,6 @@ ___
 ```bash
 # Navegue até o diretório do FrontEnd
 $ cd front-explorer
-
-# Instale as dependências necessárias
-$ npm install
-
-# Agora inicie o servidor do FrontEnd
-$ npm run dev
-
-# O terminal irá exibir o endereço local onde a aplicação está sendo executada. Basta digitar o mesmo endereço em seu navegador preferido. O endereço usado na criação do projeto foi este:
-
-  http://localhost:5173/
-```
-
-#### 💻 Executando o FrontEnd
-```bash
-# Navegue até o diretório do FrontEnd
-$ cd food-explorer-frontend
 
 # Instale as dependências necessárias
 $ npm install
