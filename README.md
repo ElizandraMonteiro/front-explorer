@@ -67,7 +67,7 @@ ___
   PORT=
 
 # Navegue até o diretório do BackEnd
-$ cd food-explorer-backend
+$ cd food-explorer
 
 # Instale as dependências necessárias
 $ npm install
